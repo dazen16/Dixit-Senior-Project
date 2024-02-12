@@ -1,0 +1,18 @@
+Form 1: Question 1, and all the even numbered questions are from the Bot. All odd except Q1 are from real players
+Form 2: Question 1, and all the even numbered questions are from from real playerst. All odd except Q1 are from the Bot
+
+Q1: Row Num on csv: 722 , Target: 22 , Card 1 on image
+Q2: Row Num on csv: 897 , Target: 45 , Card 1 on image
+Q3: Row Num on csv: 2079 , Target: 48 , Card 1 on image
+Q4: Row Num on csv: 3327 , Target: 63 , Card 4 on image
+Q5: Row Num on csv: 5709 , Target: 7 , Card 4 on image
+Q6: Row Num on csv: 9164 , Target: 5 , Card 4 on image
+Q7: Row Num on csv: 9982 , Target: 22 , Card 2 on image
+Q8: Row Num on csv: 12541 , Target: 15 , Card 4 on image
+Q9: Row Num on csv: 12640 , Target: 32 , Card 4 on image
+Q10: Row Num on csv: 16085 , Target: 77 , Card 2 on image
+Q11: Row Num on csv: 16324 , Target: 44 , Card 4 on image
+Q12: Row Num on csv: 19920 , Target: 3 , Card 1 on image
+Q13: Row Num on csv: 20057 , Target: 10 , Card 4 on image
+Q14: Row Num on csv: 20330 , Target: 36 , Card 2 on image
+Q15: Row Num on csv: 23305 , Target: 3 , Card 2 on image
